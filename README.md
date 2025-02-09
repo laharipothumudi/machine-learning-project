@@ -3,8 +3,11 @@
 This project aims to predict the price of a car based on various features such as brand, model, year, mileage, fuel type, and more. Using machine learning techniques, the model analyzes historical data and provides accurate price estimates for used cars.
 ## Features
 •	Data preprocessing and cleaning
+
 •	Feature selection and engineering
+
 •	Model training using machine learning algorithms
+
 •	Performance evaluation and visualization
 ## Technologies Used
 •	Python
